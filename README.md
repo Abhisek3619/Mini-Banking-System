@@ -1,4 +1,4 @@
-# Mini Banking Statement
+# Mini Banking System
 A C program developed using Turbo C to calculate the electricity bill based on units consumed.
 🏦 Mini Banking System (C Programming Project)
 📘 Overview
