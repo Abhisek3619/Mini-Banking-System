@@ -71,6 +71,7 @@ int main() {
     void display(){
     printf("\n---Account details---\n");
     printf("Account no: %d\n",acc.acc_no);
-    printf("Name: &s\n",acc.name);
+    printf("Name: %s\n",acc.name);
     printf("Balance: %.2f\n",acc.balance);
     }
+
